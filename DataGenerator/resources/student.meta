@@ -1,0 +1,11 @@
+Name@String,Id@int,
+Start_date@Date,
+GPA@float,
+End_date@Date,
+Total_Marks@Int,
+Percentage@Float,
+Family_Income@Double,
+Father_Name@String,
+Age@Int
+
+
